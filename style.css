@@ -18,3 +18,11 @@ z-index: 10;
 background-image: linear-gradient(to right, #f3d424, #e69122);
 padding: 0 !important;
 }
+
+.navbar-brand img
+{
+height: 70px;
+width: 310px;
+padding-left: 40px;
+}
+
