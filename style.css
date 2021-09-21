@@ -82,3 +82,36 @@ bottom_img
 {
   width: 100%;
 }
+
+
+
+
+/*-------aboutus section---------*/
+
+#Aboutus 
+{
+  padding: 80px 0;
+}
+.Aboutus-img
+{
+width: 220px;
+margin-top: 60px;
+}
+.services
+{
+padding: 20px;
+}
+.services h4{
+  padding: 5px;
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
