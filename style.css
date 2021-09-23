@@ -21,7 +21,7 @@ padding: 0 !important;
 
 .navbar-brand img
 {
-height: 70px;
+height: 90px;
 width: 310px;
 padding-left: 40px;
 }
@@ -107,7 +107,30 @@ padding: 20px;
   text-transform: uppercase;
 }
 
+.title::before
+{
+content: '';
+background: #e69122;
+height: 5px;
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+transform: translateY(63px);
+}
 
+.title::after
+{
+content: '';
+background: #e69122;
+height: 10px;
+width: 50px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 40px;
+display: block;
+transform: translateY(8px);
+}
 
 
 
