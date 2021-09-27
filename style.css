@@ -133,6 +133,36 @@ transform: translateY(8px);
 }
 
 
+#services .btn-primary
+{
+box-shadow: none;
+padding: 8px 25px;
+border: none;
+border-radius: 20px;
+background-image: linear-gradient(to right, #f3d424, #e69122);
+}
+
+
+
+
+
+.d-block w-100
+{
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
