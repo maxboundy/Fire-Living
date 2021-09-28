@@ -143,12 +143,21 @@ background-image: linear-gradient(to right, #f3d424, #e69122);
 }
 
 
+carousel-item {
 
 
+  float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
 
-.d-block w-100
-{
-  
+.carousel-control-next {
+  background-image: linear-gradient(to right, #f3d424, #e69122);
+}
+.carousel-control-prev {
+  background-image: linear-gradient(to right, #f3d424, #e69122);
+  width: 20px;
 }
 
 
