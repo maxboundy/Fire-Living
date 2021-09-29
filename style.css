@@ -205,6 +205,17 @@ color: #fff;
   margin: 20px;
 }
 
+.footer-box .fa
+{
+margin-right: 8px;
+font-size: 25px;
+height: 40px;
+width: 40px;
+text-align: center;
+padding-top: 7px;
+border-radius: 2px;
+background-image: linear-gradient(to right, #f3d424, #e69122);
+}
 
 
 
