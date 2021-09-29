@@ -187,6 +187,16 @@ transform: translateY(-10px)
 
 
 
+/*-----------Footer-------------*/
+
+#footer { 
+background-image: linear-gradient(to right, #f3d424, #e69122);
+color: #fff;
+}
+.footer-img {
+  width: 100%;
+}
+
 
 
 
