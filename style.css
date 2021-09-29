@@ -197,7 +197,13 @@ color: #fff;
   width: 100%;
 }
 
-
+.footer-box{
+  padding: 20px;
+}
+.footer-box img{
+  width: 120px;
+  margin: 20px;
+}
 
 
 
